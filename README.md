@@ -1,2 +1,3 @@
 # hello-world
-This tradition has to be kept
+This tradition has to be kept.
+Hello World.
